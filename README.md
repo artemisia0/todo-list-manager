@@ -1,4 +1,4 @@
-# First-Go-Web-App
+# todo-list-manager
 Hi! This is my first web application in The Go Programming Language. This is a simple todo list manager (150 LOC).
 It might be useful for people learning Go, sqlite3, HTML, CSS.
 ```bash
